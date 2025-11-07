@@ -1266,7 +1266,7 @@
 }
 
 .account-details-user .account-avatar {
-background-image: url("https://i.imgur.com/KpcSi66.jpeg")
+    background-image: url("https://i.imgur.com/KpcSi66.jpeg") !important;
     background-size: cover !important;
     background-position: center !important;
 }
